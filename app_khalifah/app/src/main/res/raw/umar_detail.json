@@ -1,0 +1,109 @@
+{
+  "title": "Umar bin Khattab",
+  "description": "Umar bin Khattab bin Nafiel bin Abdul Uzza (581 - November 644)",
+  "year": null,
+  "text": "Umar bin Khattab memiliki umur yang lebih muda 13 tahun dari Rasulullah SAW. ia lahir di Mekkah pada tahun 582 M, dan pada tahun 634 M ia menggantikan Abu Bakar sebagai khilafah.\nSejak masih kecil, Umar dikenal sebagai orang yang pemberani dan cerdas. Ia bahkan tidak takut menyatakan suatu kebenaran pada siapa saja. Sebelum ia masuk Islam, ia sempat menentang Islam, namun setelah masuk ia sangat membela Islam dan melawan musuh-musuhnya. Karena keberaniannya, Umar bin Khattab ditakuti oleh kaum Quraisy.\nSifat keberaniannya dalam kebenaran membuat Rasulullah SAW. memberi julukan kepadanya sebagai Al-Faruq yakni memiliki arti sang pembeda. Maknanya bahwa Umar adalah sesosok orang yang dapat membedakan kebenaran dan keburukan.",
+  "extraText": "",
+  "localImageResource": "umar",
+  "price": "",
+  "trailerUrl": "https://storage.googleapis.com/android-tv/Sample videos/Google+/Google+_ Sharing but like real life.mp4",
+  "videoUrl": "https://storage.googleapis.com/android-tv/Sample videos/April Fool's 2013/Explore Treasure Mode with Google Maps.mp4",
+  "characters": [
+    {
+      "type": "CHARACTER",
+      "title": "Leonardo Di Caprio",
+      "localImageResource": "face_01"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Gerald Butler",
+      "localImageResource": "face_08"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Russle Crow",
+      "localImageResource": "face_02"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Emma Stone",
+      "localImageResource": "face_03"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Natalie Portman",
+      "localImageResource": "face_04"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Jack Gyllanhall",
+      "localImageResource": "face_05"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Ryan Gossling",
+      "localImageResource": "face_06"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Olivia Wilde",
+      "localImageResource": "face_07"
+    }
+  ],
+  "recommended": [
+    {
+      "type": "MOVIE",
+      "title": "The Amazing Spuder-Man",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_01"
+    },
+    {
+      "type": "MOVIE",
+      "title": "American Psycho",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_02"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Big Hero 6",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_03"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Edge of Tomorrow",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_04"
+    },
+    {
+      "type": "MOVIE",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_05"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Interstellar",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_06"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Jurassic Park",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_07"
+    },
+    {
+      "type": "MOVIE",
+      "title": "The Hunger Games: Mockingjay Part I",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_08"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Planes",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_09"
+    }
+  ]
+}

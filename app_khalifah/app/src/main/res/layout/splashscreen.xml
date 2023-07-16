@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="64dp"
+    android:paddingLeft="64dp"
+    android:paddingRight="64dp"
+    android:paddingTop="64dp"
+    android:background="@color/fastlane_background"
+    tools:context=".app.SplashActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/logo"
+        android:layout_marginLeft="50dp"
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal"
+        android:text="Khulafaur Rasyidin"
+        android:textSize="30sp" />
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_below="@id/title"-->
+<!--        android:layout_marginTop="15dp"-->
+<!--        android:layout_toRightOf="@+id/logo"-->
+<!--        android:layout_marginLeft="50dp"-->
+<!--        android:text="@string/mobile_welcome_description"-->
+<!--        android:textSize="30sp"-->
+<!--        android:id="@+id/description"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textStyle="bold"/>-->
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="310px"
+        android:layout_marginLeft="450px"
+        android:src="@drawable/logo"
+        android:layout_marginTop="130dp"
+        android:layout_height="309px"/>
+
+    <ProgressBar
+        android:id="@+id/idPBLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_below="@id/logo"
+        android:layout_centerInParent="true"
+        android:indeterminateTint="@color/card_primary_text" />
+</RelativeLayout>

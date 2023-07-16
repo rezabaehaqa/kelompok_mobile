@@ -1,0 +1,35 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 0,
+        "type": "DEFAULT",
+        "title": "Abu",
+        "localImageResource": "abu",
+        "description": "Showcase of various Restaurant"
+      },
+      {
+        "id": 1,
+        "type": "DEFAULT",
+        "title": "Umar",
+        "localImageResource": "umar",
+        "description": "Showcase of various Mountain, Waterfall, Lake and Etc"
+      },
+      {
+        "id": 2,
+        "type": "DEFAULT",
+        "title": "Utsman",
+        "localImageResource": "utsman",
+        "description": "Showcase of various School, Libary and Museum"
+      },
+      {
+        "id": 3,
+        "type": "DEFAULT",
+        "title": "Ali",
+        "localImageResource": "ali",
+        "description": "Showcase of various School, Libary and Museum"
+      }
+    ]
+  }
+]

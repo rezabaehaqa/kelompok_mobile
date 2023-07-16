@@ -1,0 +1,109 @@
+{
+  "title": "Abu Bakar Ash-Shiddiq",
+  "description": "Abu Bakar (lahir: 572 - wafat: 23 Agustus 634/21 Jumadil Akhir 13 H)",
+  "year": null,
+  "text": "Abu Bakar memiliki nama asli Abdul Ka’bah. Kemudian nama tersebut diganti oleh Rasuk menjadi Abdullah. Nama lengkapnya adalah Abdullah bin Abi Quhafah at -Tamimi. Abu Bakar lahir dari pasangan suami istri Usman (Abu Quhafah dan Ummu Khair Salma binti Sakhr, ia berasal dari suku Taim. Beliau lahir di Mekkah pada tahun 572 M.\nSejak kecil, Abu Bakar memiliki sifat lemah lembut, jujur, dan sabar. Saat ia memasuki usia remaja, ia telah bersahabat dengan Rasullullah SAW. dan sahabat lainnya yang menemani Rasulullah juga. Sejak saat itu ia dijuluki sebagai As-Siddiq karena ia selalu mempercayai dan membenarkan apa yang dikatakan oleh Rasul.\nAbu Bakar dipilih menjadi khilafah dengan jalan musyawarah antara kaum Muhajirin dan kaum Anshar. Pada masa setelah peninggalan Rasul terjadi perselisihan antara kaum Muhajirin dan kaum Anshar saat pemilihan penerus Rasulullah SAW. Kaum Anshar menawarkan Sa’ad bin Ubadah sebagai penerus kepemimpinan Rasul, sedangkan Abu Bakar  As-Siddiq menawarkan Umar bin Khattab dan Abu bin Ubaidah  sebagai penerus kepemimpinan Rasul.\nDalam masa perselisihan ini Abu Bakar menegaskan kepada kaum Anshar bahwa kaum Muhajirinlah yang pantas untuk menggantikan kepemimpinan Rasul sebagai pemimpin Islam karena kaum Muhajirin telah diistimewakan oleh Allah Swt. kaum Muhajirin yang pertama mengakui Muhammad sebagai Nabi dan selalu bersamanya dalam situasi apa pun.\nPada saat itu juga Umar bin Khattab menolak usulan Abu Bakar yang menjadikannya sebagai pengganti Rasul. Bahkan Umar mengatakan bahwa Abu Bakar yang cocok menjadi khalifah dari kaum Muhajirin. Setelah bermusyawarah, kedua kaum akhirnya sepakat untuk menjadikan Abu Bakar sebagai khalifah. Ada beberapa kesepakatan yang membuat Abu Bakar diterima menjadi khalifah.",
+  "extraText": "",
+  "localImageResource": "abu",
+  "price": "",
+  "trailerUrl": "https://storage.googleapis.com/android-tv/Sample videos/Google+/Google+_ Sharing but like real life.mp4",
+  "videoUrl": "https://storage.googleapis.com/android-tv/Sample videos/April Fool's 2013/Explore Treasure Mode with Google Maps.mp4",
+  "characters": [
+    {
+      "type": "CHARACTER",
+      "title": "Leonardo Di Caprio",
+      "localImageResource": "face_01"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Gerald Butler",
+      "localImageResource": "face_08"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Russle Crow",
+      "localImageResource": "face_02"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Emma Stone",
+      "localImageResource": "face_03"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Natalie Portman",
+      "localImageResource": "face_04"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Jack Gyllanhall",
+      "localImageResource": "face_05"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Ryan Gossling",
+      "localImageResource": "face_06"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Olivia Wilde",
+      "localImageResource": "face_07"
+    }
+  ],
+  "recommended": [
+    {
+      "type": "MOVIE",
+      "title": "The Amazing Spuder-Man",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_01"
+    },
+    {
+      "type": "MOVIE",
+      "title": "American Psycho",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_02"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Big Hero 6",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_03"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Edge of Tomorrow",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_04"
+    },
+    {
+      "type": "MOVIE",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_05"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Interstellar",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_06"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Jurassic Park",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_07"
+    },
+    {
+      "type": "MOVIE",
+      "title": "The Hunger Games: Mockingjay Part I",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_08"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Planes",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_09"
+    }
+  ]
+}

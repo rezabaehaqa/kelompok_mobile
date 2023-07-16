@@ -1,0 +1,109 @@
+{
+  "title": "Utsman bin Affan",
+  "description": "Utsman bin Affan (574 – 656 / 12 Dzulhijjah 35 H; umur 81–82 tahun)",
+  "year": null,
+  "text": "Utsman bin Affan pada tahun 579 M di Thaif daerah subur kawasan Hijaz, letaknya di sebelah barat laut Arab Saudi. Ia lahir setelah 5 tahun dari tahun Gajah. Hal tersebut membuatnya memiliki usia 5 tahun lebih muda dari Rasulullah SAW.\nUstman bin Affan adalah seorang saudagar kaya dan juga seorang penulis wahyu yang terkenal. Ustman dikenal sebagai orang yang pendiam dan memiliki budi pekerti yang baik. Karena ia banyak melakukan amal kebaikan maka ia mendapat gelar Ghaniyyun Syakir, yaitu artinya orang kaya yang banyak bersyukur kepada Allah Swt.\nWalaupun ia orang kaya, ia tidak lupa dengan orang yang berada di bawahnya. Ia juga tidak segan untuk ikut berperang. Bahkan dikisahkan dari Ibn Syihab Al-Zuhri dikatakan bahwa, Utsman pernah mempersiapkan 940 ekor unta dan 60 ekor kuda untuk Jaisyul Usrah (pasukan sulit) dalam Perang Tabuk.\nSelain itu ia juga pernah memberikan 10.000 dinar (sekitar 483 juta rupiah) kepada Rasullullah SAW. dengan kedua tangannya sendiri. Kejadian tersebut diceritakan oleh sahabat Rasul yaitu, Hudzaifah.",
+  "extraText": "",
+  "localImageResource": "utsman",
+  "price": "",
+  "trailerUrl": "https://storage.googleapis.com/android-tv/Sample videos/Google+/Google+_ Sharing but like real life.mp4",
+  "videoUrl": "https://storage.googleapis.com/android-tv/Sample videos/April Fool's 2013/Explore Treasure Mode with Google Maps.mp4",
+  "characters": [
+    {
+      "type": "CHARACTER",
+      "title": "Leonardo Di Caprio",
+      "localImageResource": "face_01"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Gerald Butler",
+      "localImageResource": "face_08"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Russle Crow",
+      "localImageResource": "face_02"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Emma Stone",
+      "localImageResource": "face_03"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Natalie Portman",
+      "localImageResource": "face_04"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Jack Gyllanhall",
+      "localImageResource": "face_05"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Ryan Gossling",
+      "localImageResource": "face_06"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Olivia Wilde",
+      "localImageResource": "face_07"
+    }
+  ],
+  "recommended": [
+    {
+      "type": "MOVIE",
+      "title": "The Amazing Spuder-Man",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_01"
+    },
+    {
+      "type": "MOVIE",
+      "title": "American Psycho",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_02"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Big Hero 6",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_03"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Edge of Tomorrow",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_04"
+    },
+    {
+      "type": "MOVIE",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_05"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Interstellar",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_06"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Jurassic Park",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_07"
+    },
+    {
+      "type": "MOVIE",
+      "title": "The Hunger Games: Mockingjay Part I",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_08"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Planes",
+      "description": "$3.99",
+      "localImageResource": "card_image_movie_09"
+    }
+  ]
+}
